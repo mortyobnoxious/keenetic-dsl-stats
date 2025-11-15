@@ -1,6 +1,6 @@
 # Keenetic DSL Stats
 
-A Tampermonkey script to inject advanced DSL stats (CRC/FEC errors) and a reset button into the Keenetic router web interface.
+A Tampermonkey script to inject DSL stats (CRC/FEC errors) and a reset button into the Keenetic router web interface.
 
 ## Preview
 <img width="400" height="485" alt="Keenetic DSL Stats Preview" src="https://github.com/user-attachments/assets/0340d87d-cb8a-4b4e-ad0f-cb41acf1bd9a" />
